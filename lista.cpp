@@ -1,3 +1,5 @@
+// Nathan Milhomen, Victor Rodrigues Perigo de Oliveira, Caio Alexandre Reis, Ana Vitoria Rezende de Oliveira
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -10,7 +12,6 @@ typedef struct Lista
     Elemento *inicio;
     int tamanho;
 };
-// vencimento, valor, situação
 struct data
 {
     char dia[2];
